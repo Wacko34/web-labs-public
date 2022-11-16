@@ -1,0 +1,11 @@
+ li {
+    list-style-type: none;
+}
+
+.circle-marker {
+    list-style-type: circle;
+}
+
+a {
+    text-decoration: none;
+}
